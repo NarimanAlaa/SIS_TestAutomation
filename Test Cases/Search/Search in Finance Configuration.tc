@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By this Testcase the user can search for (Bank, Payer Types, Sponsors, Blocking Reasons) in the Finance Configuration tab</description>
+   <name>Search in Finance Configuration</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2e1eff4-3cd2-4fa4-85c3-c6a7a56d5c85</testCaseGuid>
+</TestCaseEntity>

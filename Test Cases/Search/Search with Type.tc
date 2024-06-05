@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By this testcase the user can search by using the common fields which are:&#xd;
+Type / Site Type&#xd;
+Name / Site&#xd;
+&#xd;
+In the following pages:&#xd;
+School --> Schools&#xd;
+School --> Bus Definifion&#xd;
+Next year --> Structure&#xd;
+Next year --> Capacity&#xd;
+System Configuration --> Communication&#xd;
+System Configuration --> Attendance Message&#xd;
+School Configuration --> School Capacity&#xd;
+Business Rules --> Attendance Conversion&#xd;
+Business Rules --> weekdays&#xd;
+Finance Configuration --> Fee Structure&#xd;
+&#xd;
+Classroom --> Elective Course Application list&#xd;
+Registration --> Elective Course Application list&#xd;
+&#xd;
+Registration --> Exceptions&#xd;
+Registration --> Exception RO&#xd;
+Special Cases --> Special Needs Exceptions&#xd;
+Results --> Change Request</description>
+   <name>Search with Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3006d65c-882f-4347-b1dc-23c86e203a6a</testCaseGuid>
+</TestCaseEntity>

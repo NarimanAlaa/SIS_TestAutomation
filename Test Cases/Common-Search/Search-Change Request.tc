@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Search Functionality across multiple common Pages, which are:&#xd;
+&#xd;
+Registration --> Exceptions&#xd;
+Registration --> Exception RO&#xd;
+Special Cases --> Special Needs Exceptions&#xd;
+Results --> Change Request</description>
+   <name>Search-Change Request</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>630cd4c8-49c1-4950-99e0-7650871d6bdc</testCaseGuid>
+</TestCaseEntity>

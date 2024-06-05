@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Search Functionality across multiple common Pages, which are:&#xd;
+&#xd;
+School --> Classrooms&#xd;
+Classroom --> class Details&#xd;
+Classroom --> Class Schedule&#xd;
+Classroom --> Class Gradebook&#xd;
+Attendance --> Class&#xd;
+Next year --> Homerooms&#xd;
+Student Health -- > BMI</description>
+   <name>Search-General</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>329f18b2-ca5a-473b-badd-c60219f711d8</testCaseGuid>
+</TestCaseEntity>

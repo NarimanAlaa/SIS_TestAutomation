@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Search Functionality across multiple common Pages, which are:&#xd;
+&#xd;
+School --> Schools&#xd;
+School --> Bus Definifion&#xd;
+Next year --> Structure&#xd;
+Next year --> Capacity&#xd;
+System Configuration --> Communication&#xd;
+System Configuration --> Attendance Message&#xd;
+School Configuration --> School Capacity&#xd;
+Business Rules --> Attendance Conversion&#xd;
+Business Rules --> weekdays&#xd;
+Finance Configuration --> Fee Structure</description>
+   <name>Search-Structure</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ccaa3a7-e544-46ec-91c8-623900afc79b</testCaseGuid>
+</TestCaseEntity>

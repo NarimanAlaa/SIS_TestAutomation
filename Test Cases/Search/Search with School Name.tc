@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By this testcase the user can search for school by using the common fields which are:&#xd;
+School&#xd;
+Academic Year&#xd;
+&#xd;
+In the following pages:&#xd;
+School --> Classrooms&#xd;
+Classroom --> class Details&#xd;
+Classroom --> Class Schedule&#xd;
+Classroom --> Class Gradebook&#xd;
+Attendance --> Class&#xd;
+Next year --> Homerooms&#xd;
+Student Health -- > BMI&#xd;
+&#xd;
+Classroom --> Mass Operations&#xd;
+Registration --> Transfers&#xd;
+Next year --> Mass Operations&#xd;
+&#xd;
+Classroom --> Exemption&#xd;
+Registration --> Exemption&#xd;
+&#xd;
+Behaviour --> Add Exemplary&#xd;
+Behaviour --> Add offense&#xd;
+Behaviour --> Scoring&#xd;
+&#xd;
+Registration --> Details&#xd;
+Student Health --> Health Record&#xd;
+Student Health --> Health Reacord Edit&#xd;
+Study Fees --> Fee Payment&#xd;
+</description>
+   <name>Search with School Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53f9f0c6-ede8-4fac-8478-8ed4acd6af28</testCaseGuid>
+</TestCaseEntity>
